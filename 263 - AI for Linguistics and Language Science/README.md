@@ -23,5 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 263 - AI for Linguistics and Language Science
 Verified on: 2026-01-08
-
-Verified on: 2025-05-11

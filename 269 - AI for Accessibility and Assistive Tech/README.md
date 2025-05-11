@@ -23,5 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 269 - AI for Accessibility and Assistive Tech
 Verified on: 2026-01-08
-
-Verified on: 2025-05-11

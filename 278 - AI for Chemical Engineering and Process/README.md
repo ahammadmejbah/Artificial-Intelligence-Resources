@@ -23,5 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 278 - AI for Chemical Engineering and Process
 Verified on: 2026-01-08
-
-Verified on: 2025-05-11

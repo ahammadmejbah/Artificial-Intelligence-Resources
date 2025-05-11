@@ -23,5 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 190 - AI for Edge Robotics
 Verified on: 2026-01-08
-
-Verified on: 2025-05-11
