@@ -23,3 +23,4 @@ Verified on: 2026-01-07
 
 ## Directory: 148 - AI Startups and Venture Capital
 Verified on: 2026-01-08
+Verified on: 2025-05-11
