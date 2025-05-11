@@ -23,3 +23,5 @@ Verified on: 2026-01-07
 
 ## Directory: 98 - AI for Science and Discovery
 Verified on: 2026-01-08
+
+Verified on: 2025-05-11
