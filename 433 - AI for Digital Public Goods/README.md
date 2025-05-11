@@ -23,5 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 433 - AI for Digital Public Goods
 Verified on: 2026-01-08
-
-Verified on: 2025-05-11

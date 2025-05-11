@@ -1,115 +1,117 @@
 import os
 import subprocess
 
-# =========================
-# CONFIGURATION
-# =========================
-TARGET_DATE = "2026-05-11"
-
-# =========================
-# MOVE INTO REPO
-# =========================
-
+TARGET_DATE = "2025-05-11"
 
 commit_counter = 0
 
-
 print(f"Generating commits for {TARGET_DATE}...\n")
 
-# Store original README contents
-original_contents = {}
+# ====================================
+# SAVE ORIGINAL README CONTENTS
+# ====================================
 
-# =========================
-# WALK THROUGH DIRECTORIES
-# =========================
+original_readmes = {}
+
 for root, dirs, files in os.walk("."):
 
-    # Skip .git directory
+    if ".git" in dirs:
+        dirs.remove(".git")
+
+    readme_path = os.path.join(root, "README.md")
+
+    if os.path.exists(readme_path):
+
+        with open(readme_path, "r", encoding="utf-8") as f:
+            original_readmes[readme_path] = f.read()
+
+# ====================================
+# CREATE COMMITS
+# ====================================
+
+for root, dirs, files in os.walk("."):
+
     if ".git" in dirs:
         dirs.remove(".git")
 
     folder_name = os.path.basename(root)
 
     if folder_name in ["", "."]:
-        folder_name = "Root Directory"
+        folder_name = "Root"
 
     readme_path = os.path.join(root, "README.md")
 
     try:
 
-        # =========================
-        # SAVE ORIGINAL CONTENT
-        # =========================
-        if os.path.exists(readme_path):
-            with open(readme_path, "r", encoding="utf-8") as f:
-                original_contents[readme_path] = f.read()
-        else:
-            original_contents[readme_path] = ""
+        # Create README if missing
+        if not os.path.exists(readme_path):
 
-        # =========================
-        # WRITE TEMP CONTENT
-        # =========================
+            with open(readme_path, "w", encoding="utf-8") as f:
+                f.write(f"# {folder_name}\n")
+
+        # Add temporary content
         with open(readme_path, "a", encoding="utf-8") as f:
-            f.write(f"\n## Directory: {folder_name}\n")
-            f.write(f"Verified on: {TARGET_DATE}\n")
+            f.write(f"\nVerified on: {TARGET_DATE}\n")
 
-        # =========================
-        # GIT ADD
-        # =========================
         subprocess.run(
             ["git", "add", readme_path],
             check=True
         )
 
-        # =========================
-        # UNIQUE TIMESTAMP
-        # =========================
         minutes = (commit_counter // 60) % 60
         seconds = commit_counter % 60
 
         timestamp = f"12:{minutes:02d}:{seconds:02d}"
         full_date = f"{TARGET_DATE} {timestamp}"
 
-        message = f"Docs: indexed {folder_name} directory"
-
         env = os.environ.copy()
         env["GIT_AUTHOR_DATE"] = full_date
         env["GIT_COMMITTER_DATE"] = full_date
 
-        # =========================
-        # COMMIT
-        # =========================
         subprocess.run(
-            ["git", "commit", "-m", message],
-            check=True,
-            env=env
+            ["git", "commit", "-m", f"Docs: updated {folder_name}"],
+            env=env,
+            check=True
         )
 
-        print(f"✅ Commit created for: {folder_name}")
+        print(f"✅ {folder_name}")
 
         commit_counter += 1
 
     except Exception as e:
-        print(f"❌ Failed: {folder_name}")
+        print(f"❌ Error in {folder_name}")
         print(e)
 
-# =========================
-# CLEAN ALL README FILES
-# =========================
-print("\nCleaning README files...")
+# ====================================
+# RESTORE ORIGINAL FILES
+# ====================================
 
-for path, content in original_contents.items():
+print("\nRestoring original README files...\n")
 
-    try:
-        with open(path, "w", encoding="utf-8") as f:
-            f.write(content)
+for path, content in original_readmes.items():
 
-    except Exception as e:
-        print(f"Could not clean {path}: {e}")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(content)
 
-# =========================
-# COMMIT CLEANUP
-# =========================
+# Remove newly created README files
+for root, dirs, files in os.walk("."):
+
+    if ".git" in dirs:
+        dirs.remove(".git")
+
+    readme_path = os.path.join(root, "README.md")
+
+    if readme_path not in original_readmes:
+
+        try:
+            os.remove(readme_path)
+        except:
+            pass
+
+# ====================================
+# CLEANUP COMMIT
+# ====================================
+
 subprocess.run(["git", "add", "."], check=True)
 
 cleanup_env = os.environ.copy()
@@ -117,19 +119,18 @@ cleanup_env["GIT_AUTHOR_DATE"] = f"{TARGET_DATE} 23:59:59"
 cleanup_env["GIT_COMMITTER_DATE"] = f"{TARGET_DATE} 23:59:59"
 
 subprocess.run(
-    ["git", "commit", "-m", "Cleanup: restored README files"],
-    check=True,
-    env=cleanup_env
-)
-
-# =========================
-# PUSH
-# =========================
-print(f"\nPushing {commit_counter + 1} commits...")
-
-subprocess.run(
-    ["git", "push", "-u", "origin", "main"],
+    ["git", "commit", "-m", "Cleanup: restored original README files"],
+    env=cleanup_env,
     check=True
 )
 
-print("\nDone! Repository updated successfully.")
+# ====================================
+# PUSH
+# ====================================
+
+subprocess.run(
+    ["git", "push", "origin", "main"],
+    check=True
+)
+
+print("\n✅ All commits pushed successfully.")

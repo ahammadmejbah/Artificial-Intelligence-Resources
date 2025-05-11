@@ -23,5 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 259 - AI for Water Resources and Hydrology
 Verified on: 2026-01-08
-
-Verified on: 2025-05-11

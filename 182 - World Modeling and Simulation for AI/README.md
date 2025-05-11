@@ -23,5 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 182 - World Modeling and Simulation for AI
 Verified on: 2026-01-08
-
-Verified on: 2025-05-11
