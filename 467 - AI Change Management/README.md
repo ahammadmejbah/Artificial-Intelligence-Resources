@@ -1,1 +1,4 @@
 # "467 - AI Change Management"
+
+## Directory: 467 - AI Change Management
+Verified on: 2026-01-01
