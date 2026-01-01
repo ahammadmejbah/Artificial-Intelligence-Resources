@@ -1,1 +1,4 @@
 # "56 - Active Learning Strategies"
+
+## Directory: 56 - Active Learning Strategies
+Verified on: 2026-01-01
