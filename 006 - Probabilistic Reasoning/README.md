@@ -1,1 +1,4 @@
 # "06 - Probabilistic Reasoning"
+
+## Directory: 006 - Probabilistic Reasoning
+Verified on: 2026-01-01
