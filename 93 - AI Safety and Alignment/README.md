@@ -1,1 +1,4 @@
 # "93 - AI Safety and Alignment"
+
+## Directory: 93 - AI Safety and Alignment
+Verified on: 2026-01-01
