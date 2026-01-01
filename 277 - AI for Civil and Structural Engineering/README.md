@@ -1,1 +1,4 @@
 # "277 - AI for Civil and Structural Engineering"
+
+## Directory: 277 - AI for Civil and Structural Engineering
+Verified on: 2026-01-01
