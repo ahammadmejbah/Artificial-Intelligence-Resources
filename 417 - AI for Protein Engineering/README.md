@@ -1,1 +1,4 @@
 # "417 - AI for Protein Engineering"
+
+## Directory: 417 - AI for Protein Engineering
+Verified on: 2026-01-01
