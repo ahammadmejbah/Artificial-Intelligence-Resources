@@ -1,1 +1,4 @@
 # "63 - Quantization and Efficient Inference"
+
+## Directory: 63 - Quantization and Efficient Inference
+Verified on: 2026-01-01
