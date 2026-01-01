@@ -1,1 +1,4 @@
 # "477 - AI Fellowships and Scholarships"
+
+## Directory: 477 - AI Fellowships and Scholarships
+Verified on: 2026-01-01
