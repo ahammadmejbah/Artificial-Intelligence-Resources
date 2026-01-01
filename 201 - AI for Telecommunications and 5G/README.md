@@ -1,1 +1,4 @@
 # "201 - AI for Telecommunications and 5G"
+
+## Directory: 201 - AI for Telecommunications and 5G
+Verified on: 2026-01-01
