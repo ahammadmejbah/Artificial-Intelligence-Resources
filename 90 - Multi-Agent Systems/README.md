@@ -1,1 +1,4 @@
 # "90 - Multi-Agent Systems"
+
+## Directory: 90 - Multi-Agent Systems
+Verified on: 2026-01-01
