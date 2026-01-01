@@ -1,1 +1,4 @@
 # "92 - Digital Twins and Simulation"
+
+## Directory: 92 - Digital Twins and Simulation
+Verified on: 2026-01-01
