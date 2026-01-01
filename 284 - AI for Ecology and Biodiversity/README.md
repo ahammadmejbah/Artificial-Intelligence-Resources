@@ -1,1 +1,4 @@
 # "284 - AI for Ecology and Biodiversity"
+
+## Directory: 284 - AI for Ecology and Biodiversity
+Verified on: 2026-01-01
