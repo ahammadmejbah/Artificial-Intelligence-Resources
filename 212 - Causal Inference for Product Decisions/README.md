@@ -1,1 +1,4 @@
 # "212 - Causal Inference for Product Decisions"
+
+## Directory: 212 - Causal Inference for Product Decisions
+Verified on: 2026-01-01
