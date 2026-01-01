@@ -1,1 +1,4 @@
 # "170 - Visual Question Answering"
+
+## Directory: 170 - Visual Question Answering
+Verified on: 2026-01-01
