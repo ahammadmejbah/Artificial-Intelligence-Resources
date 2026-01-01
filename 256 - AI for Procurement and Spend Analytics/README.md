@@ -1,1 +1,4 @@
 # "256 - AI for Procurement and Spend Analytics"
+
+## Directory: 256 - AI for Procurement and Spend Analytics
+Verified on: 2026-01-01
