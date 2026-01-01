@@ -1,1 +1,4 @@
 # "340 - Post-Training Quantization and Sparsity"
+
+## Directory: 340 - Post-Training Quantization and Sparsity
+Verified on: 2026-01-01
