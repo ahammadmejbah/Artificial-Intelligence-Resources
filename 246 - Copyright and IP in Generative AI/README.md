@@ -1,1 +1,4 @@
 # "246 - Copyright and IP in Generative AI"
+
+## Directory: 246 - Copyright and IP in Generative AI
+Verified on: 2026-01-01
