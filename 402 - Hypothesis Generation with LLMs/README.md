@@ -1,1 +1,4 @@
 # "402 - Hypothesis Generation with LLMs"
+
+## Directory: 402 - Hypothesis Generation with LLMs
+Verified on: 2026-01-01
