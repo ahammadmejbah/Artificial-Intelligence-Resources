@@ -1,1 +1,4 @@
 # "258 - AI for Circular Economy and Waste"
+
+## Directory: 258 - AI for Circular Economy and Waste
+Verified on: 2026-01-01
