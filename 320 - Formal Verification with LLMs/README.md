@@ -1,1 +1,4 @@
 # "320 - Formal Verification with LLMs"
+
+## Directory: 320 - Formal Verification with LLMs
+Verified on: 2026-01-01
