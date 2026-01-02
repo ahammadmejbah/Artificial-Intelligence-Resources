@@ -2,3 +2,6 @@
 
 ## Directory: 28 - Causality in AI
 Verified on: 2026-01-01
+
+## Directory: 28 - Causality in AI
+Verified on: 2026-01-02
