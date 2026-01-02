@@ -2,3 +2,6 @@
 
 ## Directory: 490 - AI Job Boards and Networks
 Verified on: 2026-01-01
+
+## Directory: 490 - AI Job Boards and Networks
+Verified on: 2026-01-02
