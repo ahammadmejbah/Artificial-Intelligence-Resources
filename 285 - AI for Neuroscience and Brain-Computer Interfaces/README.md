@@ -5,3 +5,6 @@ Verified on: 2026-01-01
 
 ## Directory: 285 - AI for Neuroscience and Brain-Computer Interfaces
 Verified on: 2026-01-02
+
+## Directory: 285 - AI for Neuroscience and Brain-Computer Interfaces
+Verified on: 2026-01-03
