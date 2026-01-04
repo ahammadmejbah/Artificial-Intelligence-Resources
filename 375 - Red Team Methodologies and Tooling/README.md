@@ -8,3 +8,6 @@ Verified on: 2026-01-02
 
 ## Directory: 375 - Red Team Methodologies and Tooling
 Verified on: 2026-01-03
+
+## Directory: 375 - Red Team Methodologies and Tooling
+Verified on: 2026-01-04
