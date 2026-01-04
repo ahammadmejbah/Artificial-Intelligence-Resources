@@ -8,3 +8,6 @@ Verified on: 2026-01-02
 
 ## Directory: 477 - AI Fellowships and Scholarships
 Verified on: 2026-01-03
+
+## Directory: 477 - AI Fellowships and Scholarships
+Verified on: 2026-01-04
