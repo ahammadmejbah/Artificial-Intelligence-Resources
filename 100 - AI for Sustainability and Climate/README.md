@@ -8,3 +8,6 @@ Verified on: 2026-01-02
 
 ## Directory: 100 - AI for Sustainability and Climate
 Verified on: 2026-01-03
+
+## Directory: 100 - AI for Sustainability and Climate
+Verified on: 2026-01-04
