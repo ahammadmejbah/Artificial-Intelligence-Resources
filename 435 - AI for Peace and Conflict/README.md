@@ -8,3 +8,6 @@ Verified on: 2026-01-02
 
 ## Directory: 435 - AI for Peace and Conflict
 Verified on: 2026-01-03
+
+## Directory: 435 - AI for Peace and Conflict
+Verified on: 2026-01-04
