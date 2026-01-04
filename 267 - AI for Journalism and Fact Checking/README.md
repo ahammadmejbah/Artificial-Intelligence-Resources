@@ -8,3 +8,6 @@ Verified on: 2026-01-02
 
 ## Directory: 267 - AI for Journalism and Fact Checking
 Verified on: 2026-01-03
+
+## Directory: 267 - AI for Journalism and Fact Checking
+Verified on: 2026-01-04
