@@ -11,3 +11,6 @@ Verified on: 2026-01-03
 
 ## Directory: 117 - AI for Social Good and Humanitarian Aid
 Verified on: 2026-01-04
+
+## Directory: 117 - AI for Social Good and Humanitarian Aid
+Verified on: 2026-01-05
