@@ -11,3 +11,6 @@ Verified on: 2026-01-03
 
 ## Directory: 265 - AI for Sociology and Demography
 Verified on: 2026-01-04
+
+## Directory: 265 - AI for Sociology and Demography
+Verified on: 2026-01-05
