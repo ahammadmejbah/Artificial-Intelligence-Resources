@@ -14,3 +14,6 @@ Verified on: 2026-01-04
 
 ## Directory: 173 - Diffusion Models and Score-Based Methods
 Verified on: 2026-01-05
+
+## Directory: 173 - Diffusion Models and Score-Based Methods
+Verified on: 2026-01-06
