@@ -14,3 +14,6 @@ Verified on: 2026-01-04
 
 ## Directory: 284 - AI for Ecology and Biodiversity
 Verified on: 2026-01-05
+
+## Directory: 284 - AI for Ecology and Biodiversity
+Verified on: 2026-01-06
