@@ -14,3 +14,6 @@ Verified on: 2026-01-04
 
 ## Directory: 55 - Few-Shot and Zero-Shot Learning
 Verified on: 2026-01-05
+
+## Directory: 55 - Few-Shot and Zero-Shot Learning
+Verified on: 2026-01-06
