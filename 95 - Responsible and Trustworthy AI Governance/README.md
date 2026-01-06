@@ -14,3 +14,6 @@ Verified on: 2026-01-04
 
 ## Directory: 95 - Responsible and Trustworthy AI Governance
 Verified on: 2026-01-05
+
+## Directory: 95 - Responsible and Trustworthy AI Governance
+Verified on: 2026-01-06
