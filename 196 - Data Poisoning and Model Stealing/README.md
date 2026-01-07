@@ -17,3 +17,6 @@ Verified on: 2026-01-05
 
 ## Directory: 196 - Data Poisoning and Model Stealing
 Verified on: 2026-01-06
+
+## Directory: 196 - Data Poisoning and Model Stealing
+Verified on: 2026-01-07
