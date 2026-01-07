@@ -17,3 +17,6 @@ Verified on: 2026-01-05
 
 ## Directory: 105 - AI for Agriculture and Food Systems
 Verified on: 2026-01-06
+
+## Directory: 105 - AI for Agriculture and Food Systems
+Verified on: 2026-01-07
