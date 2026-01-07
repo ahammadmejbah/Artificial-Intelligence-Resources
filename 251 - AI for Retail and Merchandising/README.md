@@ -17,3 +17,6 @@ Verified on: 2026-01-05
 
 ## Directory: 251 - AI for Retail and Merchandising
 Verified on: 2026-01-06
+
+## Directory: 251 - AI for Retail and Merchandising
+Verified on: 2026-01-07
