@@ -17,3 +17,6 @@ Verified on: 2026-01-05
 
 ## Directory: 274 - AI for Film VFX and Animation
 Verified on: 2026-01-06
+
+## Directory: 274 - AI for Film VFX and Animation
+Verified on: 2026-01-07
