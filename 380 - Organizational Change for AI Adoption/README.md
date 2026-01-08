@@ -20,3 +20,6 @@ Verified on: 2026-01-06
 
 ## Directory: 380 - Organizational Change for AI Adoption
 Verified on: 2026-01-07
+
+## Directory: 380 - Organizational Change for AI Adoption
+Verified on: 2026-01-08
