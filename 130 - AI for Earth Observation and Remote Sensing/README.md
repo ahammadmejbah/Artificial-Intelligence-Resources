@@ -20,3 +20,6 @@ Verified on: 2026-01-06
 
 ## Directory: 130 - AI for Earth Observation and Remote Sensing
 Verified on: 2026-01-07
+
+## Directory: 130 - AI for Earth Observation and Remote Sensing
+Verified on: 2026-01-08
