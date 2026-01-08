@@ -20,3 +20,6 @@ Verified on: 2026-01-06
 
 ## Directory: 289 - AI for Pharmacology and Toxicology
 Verified on: 2026-01-07
+
+## Directory: 289 - AI for Pharmacology and Toxicology
+Verified on: 2026-01-08
