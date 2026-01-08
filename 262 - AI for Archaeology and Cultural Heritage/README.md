@@ -20,3 +20,6 @@ Verified on: 2026-01-06
 
 ## Directory: 262 - AI for Archaeology and Cultural Heritage
 Verified on: 2026-01-07
+
+## Directory: 262 - AI for Archaeology and Cultural Heritage
+Verified on: 2026-01-08
