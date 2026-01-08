@@ -20,3 +20,6 @@ Verified on: 2026-01-06
 
 ## Directory: 113 - AI for Legal Tech and E-Discovery
 Verified on: 2026-01-07
+
+## Directory: 113 - AI for Legal Tech and E-Discovery
+Verified on: 2026-01-08
