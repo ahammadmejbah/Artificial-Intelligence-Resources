@@ -23,3 +23,6 @@ Verified on: 2026-01-07
 
 ## Directory: 280 - AI for Mechanical and Aerospace
 Verified on: 2026-01-08
+
+## Directory: 280 - AI for Mechanical and Aerospace
+Verified on: 2026-05-11
