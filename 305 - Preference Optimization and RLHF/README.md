@@ -23,3 +23,6 @@ Verified on: 2026-01-07
 
 ## Directory: 305 - Preference Optimization and RLHF
 Verified on: 2026-01-08
+
+## Directory: 305 - Preference Optimization and RLHF
+Verified on: 2026-05-11
