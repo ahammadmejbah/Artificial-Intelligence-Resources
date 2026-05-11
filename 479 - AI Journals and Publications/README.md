@@ -23,3 +23,6 @@ Verified on: 2026-01-07
 
 ## Directory: 479 - AI Journals and Publications
 Verified on: 2026-01-08
+
+## Directory: 479 - AI Journals and Publications
+Verified on: 2026-05-11
