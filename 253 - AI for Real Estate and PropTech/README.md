@@ -23,3 +23,6 @@ Verified on: 2026-01-07
 
 ## Directory: 253 - AI for Real Estate and PropTech
 Verified on: 2026-01-08
+
+## Directory: 253 - AI for Real Estate and PropTech
+Verified on: 2026-05-11
