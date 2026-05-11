@@ -23,3 +23,6 @@ Verified on: 2026-01-07
 
 ## Directory: 302 - Mixture-of-Experts Architectures
 Verified on: 2026-01-08
+
+## Directory: 302 - Mixture-of-Experts Architectures
+Verified on: 2026-05-11
