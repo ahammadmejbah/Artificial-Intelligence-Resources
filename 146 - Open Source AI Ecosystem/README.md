@@ -23,3 +23,6 @@ Verified on: 2026-01-07
 
 ## Directory: 146 - Open Source AI Ecosystem
 Verified on: 2026-01-08
+
+## Directory: 146 - Open Source AI Ecosystem
+Verified on: 2026-05-11
