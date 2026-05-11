@@ -23,6 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 486 - AI Open Source Licenses
 Verified on: 2026-01-08
-
-## Directory: 486 - AI Open Source Licenses
-Verified on: 2026-05-11

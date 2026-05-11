@@ -23,6 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 101 - AI for Finance and FinTech
 Verified on: 2026-01-08
-
-## Directory: 101 - AI for Finance and FinTech
-Verified on: 2026-05-11

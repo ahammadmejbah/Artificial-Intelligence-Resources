@@ -23,6 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 473 - AI Certification Programs
 Verified on: 2026-01-08
-
-## Directory: 473 - AI Certification Programs
-Verified on: 2026-05-11

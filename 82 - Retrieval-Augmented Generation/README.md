@@ -23,6 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 82 - Retrieval-Augmented Generation
 Verified on: 2026-01-08
-
-## Directory: 82 - Retrieval-Augmented Generation
-Verified on: 2026-05-11

@@ -23,6 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 303 - Sparse Activation and Routing
 Verified on: 2026-01-08
-
-## Directory: 303 - Sparse Activation and Routing
-Verified on: 2026-05-11

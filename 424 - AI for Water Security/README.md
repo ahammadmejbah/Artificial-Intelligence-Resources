@@ -23,6 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 424 - AI for Water Security
 Verified on: 2026-01-08
-
-## Directory: 424 - AI for Water Security
-Verified on: 2026-05-11

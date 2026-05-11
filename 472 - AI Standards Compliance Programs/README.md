@@ -23,6 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 472 - AI Standards Compliance Programs
 Verified on: 2026-01-08
-
-## Directory: 472 - AI Standards Compliance Programs
-Verified on: 2026-05-11

@@ -23,6 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 160 - Dialogue Systems and Task-Oriented Assistants
 Verified on: 2026-01-08
-
-## Directory: 160 - Dialogue Systems and Task-Oriented Assistants
-Verified on: 2026-05-11

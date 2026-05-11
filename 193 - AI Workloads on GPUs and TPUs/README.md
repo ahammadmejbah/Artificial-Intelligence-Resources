@@ -23,6 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 193 - AI Workloads on GPUs and TPUs
 Verified on: 2026-01-08
-
-## Directory: 193 - AI Workloads on GPUs and TPUs
-Verified on: 2026-05-11

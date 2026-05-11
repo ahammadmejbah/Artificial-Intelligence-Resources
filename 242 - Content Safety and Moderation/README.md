@@ -23,6 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 242 - Content Safety and Moderation
 Verified on: 2026-01-08
-
-## Directory: 242 - Content Safety and Moderation
-Verified on: 2026-05-11

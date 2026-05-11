@@ -23,6 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 307 - Tool-Integrated Planning Agents
 Verified on: 2026-01-08
-
-## Directory: 307 - Tool-Integrated Planning Agents
-Verified on: 2026-05-11

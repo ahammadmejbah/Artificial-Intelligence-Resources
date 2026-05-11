@@ -23,6 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 94 - Mechanistic Interpretability
 Verified on: 2026-01-08
-
-## Directory: 94 - Mechanistic Interpretability
-Verified on: 2026-05-11

@@ -23,6 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 91 - Sim2Real and Transfer for Robotics
 Verified on: 2026-01-08
-
-## Directory: 91 - Sim2Real and Transfer for Robotics
-Verified on: 2026-05-11

@@ -23,6 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 22 - Probabilistic Programming
 Verified on: 2026-01-08
-
-## Directory: 22 - Probabilistic Programming
-Verified on: 2026-05-11

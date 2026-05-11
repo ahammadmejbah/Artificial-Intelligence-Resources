@@ -23,6 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 275 - AI for Architecture and Urban Planning
 Verified on: 2026-01-08
-
-## Directory: 275 - AI for Architecture and Urban Planning
-Verified on: 2026-05-11

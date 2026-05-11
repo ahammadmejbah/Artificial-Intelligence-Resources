@@ -23,6 +23,3 @@ Verified on: 2026-01-07
 
 ## Directory: 49 - AI Ethics Policy and Law
 Verified on: 2026-01-08
-
-## Directory: 49 - AI Ethics Policy and Law
-Verified on: 2026-05-11
