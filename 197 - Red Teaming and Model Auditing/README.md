@@ -23,3 +23,6 @@ Verified on: 2026-01-07
 
 ## Directory: 197 - Red Teaming and Model Auditing
 Verified on: 2026-01-08
+
+## Directory: 197 - Red Teaming and Model Auditing
+Verified on: 2026-05-11
