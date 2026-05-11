@@ -23,3 +23,6 @@ Verified on: 2026-01-07
 
 ## Directory: 252 - AI for Travel and Hospitality
 Verified on: 2026-01-08
+
+## Directory: 252 - AI for Travel and Hospitality
+Verified on: 2026-05-11
